@@ -6,5 +6,6 @@ public class HalloweenTest {
         System.out.println("... new changes");
         //online edits...
         System.out.println("more changes...");
+        // some other edits online
     }
 }
